@@ -1,7 +1,7 @@
 # Hi, I'm Jake Hancox! 👋
 
 ### 🌌 Featured Technical Project
-## [🚀 Click Here to Launch My Live 3D Galaxy Explorer Application](https://onrender.com)
+## [🚀 Click Here to Launch My Live 3D Galaxy Explorer Application](https://galaxy-core-explorer-zry5az7syztmjeukywwn7y.streamlit.app/#ngc-7212-galactic-core-explorer)
 
 ---
 
